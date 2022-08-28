@@ -1,4 +1,4 @@
 
 <?php
-$mysqli = new mysqli("192.168.1.134", "root", "password", "tienda");
+$mysqli = new mysqli("127.0.0.1", "root", "Svenvath1", "tienda", 3306);
 ?>
